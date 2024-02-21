@@ -24,22 +24,12 @@ const TopBar = () => {
       <Box mb="4" mt="4" pl="20" pr="20">
         Made with ❤️ by{" "}
         <Link
-          href="https://github.com/KnlnKS"
+          href="https://github.com/kushh666"
           bg="yellow.200"
           p={0.5}
           isExternal
         >
-          KnlnKS <ExternalLinkIcon mx="2px" />
-        </Link>{" "}
-        and{" "}
-        <Link
-          href="https://github.com/kevin51jiang"
-          bg="yellow.200"
-          p={0.5}
-          isExternal
-        >
-          kevin51jiang <ExternalLinkIcon mx="2px" />
-        </Link>
+          Kushagra Barnwal <ExternalLinkIcon mx="2px" />
         .
       </Box>
     </>
